@@ -234,3 +234,6 @@ This repository serves as the official landing page for Web Dumper. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Web Dumper today!**
+
+---
+**Last updated:** 2026-09-10 14:14:06 UTC
